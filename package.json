@@ -1,0 +1,26 @@
+{
+  "name": "br-js-footer",
+  "version": "0.1.0",
+  "description": "This Module is a way for you to have an automatically updating copyright footer be generated for JS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zooman009/BR-js-Footer.git"
+  },
+  "keywords": [
+    "automatic",
+    "footer"
+  ],
+  "author": "Bentley Reynolds <bentley.reynolds02@gmail.com> (https://www.npmjs.com/~zooman009)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zooman009/BR-js-Footer/issues"
+  },
+  "homepage": "https://github.com/Zooman009/BR-js-Footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
